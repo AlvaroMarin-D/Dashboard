@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@syncfusion/ej2": "^20.2.44",
+    "@syncfusion/ej2": "^20.3.47",
     "@syncfusion/ej2-react-calendars": "^20.2.43",
     "@syncfusion/ej2-react-charts": "^20.2.44",
     "@syncfusion/ej2-react-dropdowns": "^20.2.44",
